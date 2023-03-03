@@ -1,5 +1,3 @@
-# r3f-loading-animations-starter
-
 ![R3F - LOADER](https://user-images.githubusercontent.com/6551176/222602015-becd6101-19d6-41e7-a444-9e7ec97c620d.jpg)
 
 
